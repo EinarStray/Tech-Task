@@ -1,0 +1,17 @@
+D:\Projects\NightTask\NightTask\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\NightTask\NightTask\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\NightTask\NightTask\bin\Debug\nunit.engine.dll
+D:\Projects\NightTask\NightTask\bin\Debug\nunit.engine.api.dll
+D:\Projects\NightTask\NightTask\bin\Debug\Mono.Cecil.dll
+D:\Projects\NightTask\NightTask\bin\Debug\NightTask.dll
+D:\Projects\NightTask\NightTask\bin\Debug\NightTask.pdb
+D:\Projects\NightTask\NightTask\bin\Debug\nunit.framework.dll
+D:\Projects\NightTask\NightTask\bin\Debug\WebDriver.dll
+D:\Projects\NightTask\NightTask\bin\Debug\WebDriver.Support.dll
+D:\Projects\NightTask\NightTask\bin\Debug\nunit.framework.pdb
+D:\Projects\NightTask\NightTask\bin\Debug\nunit.framework.xml
+D:\Projects\NightTask\NightTask\bin\Debug\WebDriver.xml
+D:\Projects\NightTask\NightTask\bin\Debug\WebDriver.Support.xml
+D:\Projects\NightTask\NightTask\obj\Debug\NightTask.csprojResolveAssemblyReference.cache
+D:\Projects\NightTask\NightTask\obj\Debug\NightTask.dll
+D:\Projects\NightTask\NightTask\obj\Debug\NightTask.pdb
